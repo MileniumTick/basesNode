@@ -1,0 +1,16 @@
+{
+  "name": "02-bases-node",
+  "version": "1.0.0",
+  "description": "Crear tablas de multiplicar en archivos",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "base_3": "node app.js --base=3"
+  },
+  "author": "Josue Chavarria Montealegre",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.0"
+  }
+}
